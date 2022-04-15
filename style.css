@@ -1,4 +1,25 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    margin: 50px;
+    background-color:black;}
+h1{ font-size: 40px;
+    text-align:center;
+    color:grey;}
+#sec {padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    
+}
+td,input{width: 400px;
+    text-align: center;
+    
+    
+    
+    margin: 2px;
+    
+    
+    
+}
 
+    
 
